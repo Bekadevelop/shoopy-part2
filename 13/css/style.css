@@ -1,0 +1,24 @@
+.main{
+    width: 1000px;
+    height: 300px;
+    background-color: blue;    
+}
+.twein{
+    width: 10%;
+    height: 10%;
+    background-color: red;
+    padding : 10%;
+        border: 2%;
+}           
+html,body{
+    font-size: 20px;
+}
+/* .one{
+    font-size: 2rem;
+}
+.two{
+    font-size: 3rem;
+}
+.three{
+    font-size: 4rem;
+} */
